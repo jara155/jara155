@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Repositories
 on:
   schedule:
     # Runs every hour
@@ -7,11 +7,10 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: Update repos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/jara155"
+          repo_list: "https://github.com/jara155?tab=repositories"
