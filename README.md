@@ -1,6 +1,12 @@
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74739998/162453229-86558a04-f28e-471e-97cf-24e5383aaf7c.png" width="200"/></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74739998/162453229-86558a04-f28e-471e-97cf-24e5383aaf7c.png" width="200"/>
+  <p align="center">
+    <strong>Howdy!, I'm jara155</strong>
+  </p>
+</p>
+
 
 <p align="center">
   <a href="https://www.instagram.com/jara15554/">
@@ -17,7 +23,8 @@
 
 ## About me
 >- 🌱 I’m currently learning more about Linux.
->- 😄 He/His
+>- 💻 I use Kubuntu 21.04 with KDE Plasma.
+>- 😄 He/Him
 
 ---
 
@@ -29,16 +36,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="c++" alt="c++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="gd" width="40" height="40"/>
 </div>
 
 ---
 
 ## My Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jara155&show_icons=true&theme=bear&custom_title=Statistics)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jara155&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jara155&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 ## Projects
