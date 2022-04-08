@@ -1,14 +1,19 @@
 
-
+<!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74739998/162453229-86558a04-f28e-471e-97cf-24e5383aaf7c.png" width="200"/>
   <p align="center">
     <strong>Howdy!, I'm jara155</strong>
   </p>
 </p>
+-->
 
 
-<p align="center">
+## About me
+>- 🌱 I’m currently learning more about Linux.
+>- 💻 I use Kubuntu 21.04 with KDE Plasma.
+>- 😄 He/Him
+<p align="left">
   <a href="https://www.instagram.com/jara15554/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
   </a>
@@ -20,11 +25,6 @@
   </a>
   
 </p>
-
-## About me
->- 🌱 I’m currently learning more about Linux.
->- 💻 I use Kubuntu 21.04 with KDE Plasma.
->- 😄 He/Him
 
 ---
 
