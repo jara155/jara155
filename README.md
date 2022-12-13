@@ -10,8 +10,8 @@
 
 
 ## About me
->- 🌱 I’m currently learning more about Linux.
->- 💻 I use Kubuntu 21.04 with KDE Plasma.
+>- :robot: I enjoying doing applications with Flutter.
+>- 💻 I use Endeavour OS with GNOME.
 >- 😄 He/Him
 <p align="left">
   <a href="https://www.instagram.com/jara15554/">
@@ -49,11 +49,11 @@
 
 ## Projects
 <div>
-  <a href="https://github.com/Suchys22/CatCatcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suchys22&repo=CatCatcher&theme=bear" title="catcather"/>
+  <a href="https://github.com/jara155/Jajatils">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=JajaTils&theme=bear" title="jajatils"/>
   </a>  
-  <a href="https://github.com/Suchys22/DefinitelyNotPacMan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suchys22&repo=DefinitelyNotPacMan&theme=bear" title="pacman"/>
+  <a href="https://github.com/jara155/terminal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=terminal&theme=bear" title="pacman"/>
   </a>  
    
 </div>
