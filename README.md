@@ -32,28 +32,19 @@
 # I tried
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="lua" alt="lua" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="c" alt="c" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="flutter" alt="flutter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="c++" alt="c++" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="gd" width="40" height="40"/>
 </div>
 
 ---
-
-## My Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jara155&show_icons=true&theme=bear&custom_title=Statistics)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jara155&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 ## Projects
 <div>
   <a href="https://github.com/jara155/Jajatils">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=JajaTils&theme=bear" title="jajatils"/>
   </a>  
-  <a href="https://github.com/jara155/terminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=terminal&theme=bear" title="pacman"/>
+  <a href="https://github.com/jara155/Audio-Player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=Audio-Player&theme=bear" title="audioplayer"/>
   </a>  
    
 </div>
