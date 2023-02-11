@@ -40,8 +40,8 @@
 
 ## Projects
 <div>
-  <a href="https://github.com/jara155/Jajatils">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=JajaTils&theme=bear" title="jajatils"/>
+  <a href="https://github.com/jara155/Reminder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=Reminder&theme=bear" title="jajatils"/>
   </a>  
   <a href="https://github.com/jara155/Audio-Player">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jara155&repo=Audio-Player&theme=bear" title="audioplayer"/>
