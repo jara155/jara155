@@ -1,14 +1,3 @@
-
-<!--
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74739998/162453229-86558a04-f28e-471e-97cf-24e5383aaf7c.png" width="200"/>
-  <p align="center">
-    <strong>Howdy!, I'm jara155</strong>
-  </p>
-</p>
--->
-
-
 ## About me
 >- :robot: I enjoying doing applications with Flutter.
 >- 💻 I use Endeavour OS with GNOME.
