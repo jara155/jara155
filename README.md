@@ -1,6 +1,6 @@
 ## About me
->- :robot: I enjoying doing applications with Flutter.
->- 💻 I use Endeavour OS with GNOME.
+>- :robot: I enjoying doing minecraft plugins with Java.
+>- 💻 I use CachyOS with GNOME.
 >- 😄 He/Him
 >- https://jaroslav-matejka.cz
 <p align="left">
