@@ -1,5 +1,5 @@
 ## About me
->- :robot: I enjoying doing minecraft plugins with Java.
+>- :robot: I enjoy doing minecraft plugins with Java.
 >- 💻 I use CachyOS with GNOME.
 >- 😄 He/Him
 >- https://jaroslav-matejka.cz
@@ -24,6 +24,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="lua" alt="lua" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="flutter" alt="flutter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="py" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="py" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="svelte" alt="py" width="40" height="40"/>
 </div>
 
 ---
