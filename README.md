@@ -1,8 +1,12 @@
 ## About me
->- :robot: I enjoy doing minecraft plugins with Java.
->- 💻 I use CachyOS with GNOME.
+>- 🖥 Self-Taught, Minecraft Plugin Developer
+>- 🇨🇿 Czech Republic
+>- 💻 I use CachyOS with GNOME
 >- 😄 He/Him
->- https://jaroslav-matejka.cz
+>- [My Minecraft plugins](https://www.spigotmc.org/resources/authors/jara155.1187518/)
+>- [Website](https://jaroslav-matejka.cz)
+
+
 <p align="left">
   <a href="https://www.instagram.com/jara15554/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
@@ -19,14 +23,13 @@
 ---
 
 
-# I tried
+# My skills
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="lua" alt="lua" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="flutter" alt="flutter" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="py" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="py" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="svelte" alt="py" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" title="lua" alt="lua-icon" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="flutter" alt="flutter-icon" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="python-icon" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java-icon" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="svelte" alt="svelte-icon" width="40" height="40"/>
 </div>
 
 ---
